@@ -1,5 +1,8 @@
 # Honors, Advanced Financial Analysis and Decision Making aka Santander Finance Boot Camp
 
+
+![Screenshot 2022-03-26 021838](https://user-images.githubusercontent.com/52173060/160227452-d62fa7e9-b096-4c2a-a461-e2abd29aaaf7.png)
+
 Topics Covered / Learning Outcomes:
 
 • Perform data and financial analysis using excel tables, pivot tables, regression, modeling, forecasting, and valuation.
@@ -14,4 +17,3 @@ Topics Covered / Learning Outcomes:
 
 • Use excel models to explore valuation techniques such as P/E, PEG, EV/EBITDA, and DCF.
 
-![Screenshot 2022-03-26 021838](https://user-images.githubusercontent.com/52173060/160227452-d62fa7e9-b096-4c2a-a461-e2abd29aaaf7.png)
