@@ -1,7 +1,7 @@
 
 # Honors, Advanced Financial Analysis and Decision Making aka Santander Finance Boot Camp
 
-![CCNYlogo_FlushRight_digital](https://user-images.githubusercontent.com/52173060/160252560-48d2a0df-a611-43bc-be39-620fa979135f.jpg)
+![colin_powell_logo-short](https://user-images.githubusercontent.com/52173060/160252620-0859bdac-a3a8-4122-912b-e87f75682cd3.jpg)
 ![Screenshot 2022-03-26 021838](https://user-images.githubusercontent.com/52173060/160227452-d62fa7e9-b096-4c2a-a461-e2abd29aaaf7.png)
 
 Topics Covered / Learning Outcomes:
