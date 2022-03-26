@@ -13,3 +13,5 @@ Topics Covered / Learning Outcomes:
 • Forecast excel-models using statistical methods to provide trend analysis, peer comparisons, industry supply-demand, customer acquisition, market share, distribution channels, market size, capital projects, subscription-based revenue models, product cost models, budgets, budget variances, and market segmentation.
 
 • Use excel models to explore valuation techniques such as P/E, PEG, EV/EBITDA, and DCF.
+
+![Screenshot 2022-03-26 021838](https://user-images.githubusercontent.com/52173060/160227452-d62fa7e9-b096-4c2a-a461-e2abd29aaaf7.png)
