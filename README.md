@@ -1,7 +1,7 @@
-![Screenshot 2022-03-26 142758](https://user-images.githubusercontent.com/52173060/160252536-f494e08f-a800-4cd6-bef6-43a16c06235d.png)
+
 # Honors, Advanced Financial Analysis and Decision Making aka Santander Finance Boot Camp
 
-
+![Screenshot 2022-03-26 142758](https://user-images.githubusercontent.com/52173060/160252536-f494e08f-a800-4cd6-bef6-43a16c06235d.png)
 ![Screenshot 2022-03-26 021838](https://user-images.githubusercontent.com/52173060/160227452-d62fa7e9-b096-4c2a-a461-e2abd29aaaf7.png)
 
 Topics Covered / Learning Outcomes:
